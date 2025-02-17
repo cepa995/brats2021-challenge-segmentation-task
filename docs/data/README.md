@@ -1,6 +1,15 @@
 # Dataset Name
 
-Give your new dataset a descriptive name.
+Brain Tumor Segmentation Dataset - BraTS2021 Challenge
+
+| Name        | BraTS2021 |
+|------------|-------------------------------|
+| About      | Brain Tumor Segmentation Task - BraTS2021 Challenge |
+| Title      | BraTS2021 - Brain Tumor Segmentation Challenge |
+| Path       | `/data/raw/PKG-RSNA-ASNR-MICCAI-BraTS-2021/RSNA-ASNR-MICCAI-BraTS-2021` |
+| Split(s)   | `dataset_*_v1.json` |
+| Version    | v1 |
+
 
 ## Dataset Description
 
